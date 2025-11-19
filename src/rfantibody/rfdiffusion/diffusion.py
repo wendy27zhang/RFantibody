@@ -22,7 +22,7 @@ from rfantibody.rfdiffusion.util_module import ComputeAllAtomCoords
 from rfantibody.rfdiffusion.diff_util import th_min_angle, th_interpolate_angles, get_aa_schedule 
 
 from rfantibody.rfdiffusion.chemical import INIT_CRDS 
-from rfantibody.rfdiffusion igso3
+from rfantibody.rfdiffusion import igso3
 import time 
 
 from icecream import ic  
